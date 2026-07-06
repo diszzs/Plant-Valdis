@@ -1,0 +1,6 @@
+{
+  "name": "Plant Identifier & Care Guide",
+  "description": "An interactive AI-powered plant identification and comprehensive botanical care guide application.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
